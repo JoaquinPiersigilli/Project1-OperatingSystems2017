@@ -1,0 +1,14 @@
+Los procesos terminan en orden aleatorio:
+
+Ejemplo de salida:
+
+conductor: 6 duracion del viaje: 290852541
+conductor: 5 duracion del viaje: 590011675
+conductor: 7 duracion del viaje: 1045618677
+conductor: 4 duracion del viaje: 1968078301
+conductor: 8 duracion del viaje: 757547896
+conductor: 3 duracion del viaje: 1205554746
+conductor: 9 duracion del viaje: 444454915
+conductor: 2 duracion del viaje: 1505335290
+conductor: 1 duracion del viaje: 1804289383
+conductor: 0 duracion del viaje: 1804289383
